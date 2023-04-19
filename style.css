@@ -34,7 +34,9 @@
     margin: 0 auto 0;
   }
   
-  .list__item-label, .list__item-text, .new-item__input {
+  .list__item-label,
+  .list__item-text, 
+  .new-item__input {
     width: 56%;
     display: inline-block;
     flex-grow: 1;
@@ -72,7 +74,8 @@
   }
   
   /* Heading */
-  .section__title, .new-item__label {
+  .section__title,
+  .new-item__label {
     color: #333;
     font-weight: 700;
     font-size: 15px;
@@ -82,7 +85,8 @@
     text-transform: uppercase;
   }
   
-  .list__item-text, .new-item__input {
+  .list__item-text,
+  .new-item__input {
     margin: 0;
     font-size: 18px;
     line-height: 18px;
@@ -95,7 +99,8 @@
     color: #888;
   }
   
-  .list__item-text:focus, .new-item__input {
+  .list__item-text:focus,
+  .new-item__input {
     color: #333;
   }
   
