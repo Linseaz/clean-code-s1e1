@@ -25,7 +25,7 @@
    .header {
       text-align: center;
     }
-    
+
   }
   
   .main {
@@ -45,7 +45,7 @@
   }
   
   .list {
-    margin:0;
+    margin: 0;
     padding: 0px;
   }
   
@@ -156,14 +156,14 @@
   
   /* Edit Task */
   .list__item .list__item-text {
-    display:none;
+    display: none;
   }
   
   .edit-mode .list__item-text {
-    display:inline-block;
-    width:224px;
+    display: inline-block;
+    width: 224px;
   }
   
   .edit-mode .list__item-label {
-    display:none;
+    display: none;
   }
